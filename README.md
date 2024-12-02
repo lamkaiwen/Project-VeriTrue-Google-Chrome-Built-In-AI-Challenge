@@ -40,10 +40,13 @@ You should see something similar to the screenshot below.
 You can now use the extension to summarise long input text, or .txt and word docs containing large textual content into simpler sentences. Below are a few examples of how you can use the extension.
 
 ### Input Text
+![image](https://github.com/user-attachments/assets/7e94571f-5c8a-4564-a336-6e67d6b704ce)
 
 ### .txt files
+![image](https://github.com/user-attachments/assets/d61f4715-7504-4399-932c-1af0e4fa4df3)
 
 ### Word Documents
+![image](https://github.com/user-attachments/assets/8321c9f7-e09c-4d81-906e-2ec0d1417e6e)
 
 
 ## Contributing
