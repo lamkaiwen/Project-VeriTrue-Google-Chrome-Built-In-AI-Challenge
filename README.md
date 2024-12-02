@@ -20,3 +20,6 @@ You should see something similar to the screenshot below.
 1. Before using the extension, open up and navigate to a new tab in your Google Chrome browser.
 2. You should see a jigsaw puzzle-like icon on the top right of the page, shown as the red circle in the screenshot below. Click on it to access the Extensions page.
 ![Screenshot 2024-12-02 212031](https://github.com/user-attachments/assets/fec499e6-80e2-4745-a809-d6fb1112394e)
+3. Click on "Manage Extensions"
+![Screenshot 2024-12-02 212334](https://github.com/user-attachments/assets/934857a3-b80e-453b-8744-126becb0a43f)
+
