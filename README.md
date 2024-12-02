@@ -1,6 +1,8 @@
 # Google-Chrome-Built-In-AI-Challenge
 Hello!👋 Welcome to our project for the Google Chrome Built-In AI Challenge. Our project features a Google Chrome extension which allows users to input large text or files with large textual content, providing them with concise and well-crafted summaries.
 
+Currently, this application only works on input text, word doc and .txt files, but more features will be implemented
+
 
 ## Table of Contents
 - [Installation](#installation)
@@ -23,4 +25,7 @@ You should see something similar to the screenshot below.
 3. Click on "Manage Extensions".
 
 ![Screenshot 2024-12-02 212334](https://github.com/user-attachments/assets/934857a3-b80e-453b-8744-126becb0a43f)
+4. On the top right of the screen, enable "Developer Mode". A toolbar with 3 buttons is displayed at the top of the screen.
 
+5. Select "Load Unpacked" and access the 
+6. 
