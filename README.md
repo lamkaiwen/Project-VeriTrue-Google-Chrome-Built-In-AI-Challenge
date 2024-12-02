@@ -28,5 +28,6 @@ You should see something similar to the screenshot below.
 
 4. On the top right of the screen, enable "Developer Mode". A toolbar with 3 buttons is displayed at the top of the screen.
 
-5. Select "Load Unpacked" and access the 
-6. 
+5. Select "Load Unpacked" and access the folder you have just downloaded.
+
+7. 
