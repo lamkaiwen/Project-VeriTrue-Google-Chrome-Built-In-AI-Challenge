@@ -1,4 +1,4 @@
-# Project-VeriTrue: Google-Chrome-Built-In-AI-Challenge
+# Project-VeriTrue: Google Chrome Built In AI Challenge
 Hello!👋 Welcome to our project for the Google Chrome Built-In AI Challenge, VeriTrue. Our project features a Google Chrome extension which allows users to input large text or files with large textual content, providing them with concise and well-crafted summaries.
 
 Currently, this application only works on input text, word documents and .txt files, but more features will be implemented in future to cater to more different file types.
