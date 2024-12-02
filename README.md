@@ -6,3 +6,6 @@ Hello!👋 Welcome to our project for the Google Chrome Built-In AI Challenge. O
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Installation
+1. Download this entire application as zip folder and unpack it. There are no other dependencies needed to be installed or any othr configurations to be set-up. Once done, it can be easily set up straightaway in Google Chrome.
