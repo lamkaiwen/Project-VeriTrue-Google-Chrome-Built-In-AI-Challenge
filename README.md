@@ -57,4 +57,4 @@ Steps to Contribute:
 
 
 ## License
-This project is licensed under the [Apache 2.0](LICENSE).
+This project is licensed under the [Apache 2.0](LICENSE) license.
