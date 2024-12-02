@@ -31,8 +31,21 @@ You should see something similar to the screenshot below.
 5. Select "Load Unpacked" and access the folder you have just downloaded.
 ![Screenshot 2024-12-02 222518](https://github.com/user-attachments/assets/567f799d-becc-4d97-93f5-5a8d013ef738)
 
-6. Go back to the jigsaw puzzle-like icon and you should see the VeriTrue icon displayed in the dropdown.
+6. Go back to the jigsaw puzzle-like icon and you should see the VeriTrue icon displayed in the dropdown. Click on the icon to access the extension.
 ![Screenshot 2024-12-02 222518](https://github.com/user-attachments/assets/55e3a874-9213-4fa9-8ab6-85b2a7799941)
 
 
 ## Usage
+You can now use the extension to summarise long input text, or .txt and word docs containing large textual content into simpler sentences. Below are a few examples of how you can use the extension.
+
+# Input Text
+
+# .txt files
+
+# Word Documents
+
+
+## Contributing
+
+
+## License
