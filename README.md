@@ -24,7 +24,7 @@ You should see something similar to the screenshot below.
 ![Screenshot 2024-12-02 212031](https://github.com/user-attachments/assets/fec499e6-80e2-4745-a809-d6fb1112394e)
 3. Click on "Manage Extensions".
 
-  ![Screenshot 2024-12-02 212334](https://github.com/user-attachments/assets/934857a3-b80e-453b-8744-126becb0a43f)
+![Screenshot 2024-12-02 212334](https://github.com/user-attachments/assets/934857a3-b80e-453b-8744-126becb0a43f)
 
 4. On the top right of the screen, enable "Developer Mode". A toolbar with 3 buttons is displayed at the top of the screen.
 
