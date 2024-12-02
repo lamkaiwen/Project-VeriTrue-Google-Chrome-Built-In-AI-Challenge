@@ -1,0 +1,47 @@
+{
+  "manifest_version": 3,
+  "name": "VeriTrue",
+  "version": "1.0",
+  "description": "A Google Chrome Extension which makes use of AI to summarise articles at an easy to understand level. Such articles can come in the form of PDFs and PowerPoint slides.",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "newspaper_16x16.png",
+      "48": "newspaper_48x48.png",
+      "128": "newspaper_128x128.png"
+    }
+  },
+  "icons": {
+    "16": "newspaper_16x16.png",
+    "48": "newspaper_48x48.png",
+    "128": "newspaper_128x128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "pdf.js",
+        "pdf.worker.js"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "popup.js"
+      ]
+    }
+  ]
+}
