@@ -46,6 +46,15 @@ You can now use the extension to summarise long input text, or .txt and word doc
 
 
 ## Contributing
+Feel free to make changes to this repository if you have any improvements and suggestions in mind.
+
+Steps to Contribute:
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-name`.
+3. Make your changes.
+4. Push your branch: `git push origin feature-name`.
+5. Create a pull request.
 
 
 ## License
+This project is licensed under the [Apache 2.0](LICENSE).
