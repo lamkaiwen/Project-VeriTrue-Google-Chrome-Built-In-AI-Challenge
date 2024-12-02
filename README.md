@@ -42,7 +42,7 @@ You can now use the extension to summarise long input text, or .txt and word doc
 ### Input Text
 ![image](https://github.com/user-attachments/assets/7e94571f-5c8a-4564-a336-6e67d6b704ce)
 
-### .txt files
+### .txt Files
 ![image](https://github.com/user-attachments/assets/d61f4715-7504-4399-932c-1af0e4fa4df3)
 
 ### Word Documents
