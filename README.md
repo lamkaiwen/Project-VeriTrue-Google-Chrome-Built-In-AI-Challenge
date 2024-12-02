@@ -38,11 +38,11 @@ You should see something similar to the screenshot below.
 ## Usage
 You can now use the extension to summarise long input text, or .txt and word docs containing large textual content into simpler sentences. Below are a few examples of how you can use the extension.
 
-# Input Text
+### Input Text
 
-# .txt files
+### .txt files
 
-# Word Documents
+### Word Documents
 
 
 ## Contributing
