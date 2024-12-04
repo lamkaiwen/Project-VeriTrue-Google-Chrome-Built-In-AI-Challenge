@@ -13,7 +13,7 @@ Currently, this application only works on input text, word documents and .txt fi
 
 
 ## Installation
-Download this entire application as zip folder and unpack it. There are no other dependencies needed to be installed or any othr configurations to be set-up. Once done, it can be easily set up straightaway in Google Chrome.
+Download this entire application as a zip folder and unpack it. There are no other dependencies needed to be installed or any othr configurations to be set-up. Once done, it can be easily set up straightaway in Google Chrome.
 
 You should see something similar to the screenshot below.
 ![image](https://github.com/user-attachments/assets/2d79bda6-ce1c-4604-9352-17a8091e4790)
